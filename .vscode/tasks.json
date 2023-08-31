@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "tests",
+            "command": "luau test/tests.luau",
+            "type": "shell",
+            "args": [],
+            "group": "test"
+        },
+    ]
+}
+ 

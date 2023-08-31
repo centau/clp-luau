@@ -1,0 +1,6 @@
+{
+    "name": "clp",
+    "tree": {
+        "$path": "src/clp.luau"
+    }
+}
